@@ -1,1 +1,1 @@
-KANO COULIBALY
+Kano Coulibaly
