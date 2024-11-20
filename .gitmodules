@@ -1,0 +1,3 @@
+[submodule "git_playgroud_clone1"]
+	path = git_playgroud_clone1
+	url = git@github.com:kanoCOULIBALY/git_playground.git
